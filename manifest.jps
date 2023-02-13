@@ -1,6 +1,6 @@
 type: install
-name: HelloKaamelott
-id: hellokaamelott
+name: Arosaje-back
+id: Arosaje-back
 categories: ["apps/dev-and-admin-tools"]
 logo: https://symfony.com/logos/symfony_black_03.png
 
